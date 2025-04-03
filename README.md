@@ -24,7 +24,7 @@ A simple, elegant React application that displays the meanings and origins of te
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/team-name-meanings.git
+   git clone https://github.com/yourusername/namesMeanings.git
    cd team-name-meanings
    ```
 
