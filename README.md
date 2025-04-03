@@ -2,7 +2,8 @@
 
 A simple, elegant React application that displays the meanings and origins of team members' names. Built with React, TypeScript, and Tailwind CSS.
 
-![Team Name Meanings App Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/a5b845cc-d253-477e-a702-b0b702a2a599)
+
 
 ## Features
 
